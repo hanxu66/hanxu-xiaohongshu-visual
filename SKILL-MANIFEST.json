@@ -1,0 +1,20 @@
+{
+  "name": "hanxu-xiaohongshu-visual",
+  "version": "0.1.0",
+  "repository": "hanxu-xiaohongshu-visual",
+  "distribution": "independent-skill",
+  "files": {
+    "README.md": "b8cb0934544eea0fa3429dd239c5158d600986f190cc611abb1b826392296a28",
+    "SKILL.md": "eeaac0febb0154b382e6866b70f1bc6bae233660094a916bbf39350526be72c6",
+    "VALIDATION.md": "06f68377af3d09b69340cd5917e60776c8d58cd8b7a69070e63f6253b13eab26",
+    "VERSION": "e9dd8507f4bf0c6f42458e41aea833ad0bd3f6127272335eee9bf4d58541ed67",
+    "agents/openai.yaml": "f17a7ab311da8eb2402ee0eca700800624378a787c319a32303a52c101343906",
+    "examples/config.json": "20ae844e560191e73cc4c59abafe0ccbedb3bb61880d0c25cbe82621439745ae",
+    "examples/rendered-body.png": "5a307dcd7f50d73d708e747b866f8f977453ef5373c3610f7960013dc1b45bb2",
+    "examples/rendered-cover.png": "27f644f206179ad791ac8ad3df2223962f67a87af2acc1a24d93047c84dd28fe",
+    "examples/source.txt": "a7f95004d4ba6eccc9df07741cd1d5f1cfcd213db62cd2cb0f39b3f8ea8eee60",
+    "examples/synthetic-image.svg": "63edaf18cf3dfcaf78c28bf694dd4ad615b9b02f87c4f640ad7b8ebc45c67b26",
+    "package.json": "cb8a13eafa7415492ad1ba359324c810f52e21d858a95c28690b0f45c4cfe8cc",
+    "scripts/render_xhs_full_article.mjs": "d21dfb0fa3834f870f847515f88e15486e825528816b5d562282a782a70cb921"
+  }
+}

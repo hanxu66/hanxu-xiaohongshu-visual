@@ -1,0 +1,17 @@
+{
+  "objectDir": "./demo-output",
+  "sourcePath": "examples/source.txt",
+  "photoPath": "examples/synthetic-image.svg",
+  "revision": "synthetic-v1",
+  "sourceTitle": "先问清范围再修改",
+  "opening": "客户说改一点，不一定只是换一句话。",
+  "ending": "发现牵动整页结构时，先确认范围与时间，再动手。",
+  "coverLines": [
+    "先问清范围",
+    "再修改"
+  ],
+  "eyebrow": "合成练习",
+  "subline": "无真实客户或效果声明",
+  "authorLabel": "",
+  "brandLabel": "SYNTHETIC EXAMPLE"
+}
